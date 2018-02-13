@@ -1,5 +1,5 @@
-# urtubeBack
-back-end of urtube client(rn, web,,and so on)
+# node + express + mysql example
+
 ## tech
 node<br/>
 express<br/>
